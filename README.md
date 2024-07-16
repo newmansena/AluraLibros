@@ -11,7 +11,7 @@ ES UNA CONSURTA DE LIBROS, que consta de un MENU
                     3 - LISTAR AUTORES DE LIBROS CONSURTADOS
                     4 - LISTAR AUTORES POR AÑO ESPECIFICO
                     5 - LISTAR LIBROS POR IDIOMAS
-                    0- sSALIR
+                    0 - SALIR
                      
                    
 ![MENU](https://github.com/user-attachments/assets/f925f010-cd24-49a4-883e-c929ff5ecda6)
